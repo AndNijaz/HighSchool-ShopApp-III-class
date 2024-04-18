@@ -14,4 +14,7 @@ This project showcases my capabilities in creating a full-stack software applica
 ## Reflection
 This project marks my humble beginnings in software development. Despite its limitations, I'm proud of it as it played a significant role in shaping my coding skills and "coding character" development.
 
+## Technologies
+C# - Sql 
+
 Feel free to explore the project and provide feedback or suggestions!
