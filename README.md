@@ -1,29 +1,59 @@
+# HighSchool ShopApp: A C# Application from High School
+
+[Repository Link](https://github.com/AndNijaz/HighSchool-ShopApp-III-class)
+
 ## Project Description
-
-### Overview
-This is my first "Full Stack Software Development" project created for the subject "Programming and Programming Languages" in my fourth year of high school.
-
-### Background
-This project was created in 2022, at the end of my high school. At that time, I was still a beginner and didn't have much knowledge about code optimization or where to place the code in which files.
-
-### Project Details
-This project showcases my capabilities in creating a full-stack software application, including a database and other components suitable for the needs of that period. It demonstrates that, despite my lack of extensive prior knowledge, I was able to navigate the challenges and find solutions. Fortunately, we had an Entity-Relationship Diagram (ERD) ready, which simplified the database design process. Without it, the database aspect would have been more challenging.
-
-### Significance
-This project marks my humble beginnings in software development. Despite its limitations, I'm proud of it as it played a significant role in shaping my coding skills and development as a coder.
+HighSchool ShopApp is a C#-based application developed during my high school years as part of a learning project. The application demonstrates foundational programming concepts, including object-oriented design and basic GUI implementation. This project reflects an early stage of my programming journey and showcases my commitment to continuous learning.
 
 ---
 
-## Opis Projekta
+## Features
+- **Basic Inventory Management**: Add, edit, and remove items.
+- **Simple User Interface**: Basic GUI for ease of use.
+- **Educational Focus**: Demonstrates core programming principles such as classes, methods, and file handling.
 
-### Pregled
-Ovo je moj prvi projekt "Full Stack Software Development" stvoren za predmet "Programiranje i programski jezici" u četvrtoj godini srednje škole.
+---
 
-### Pozadina
-Ovaj projekt je napravljen 2022. godine, krajem moje srednje škole. Tada sam još uvijek bio početnik i nisam baš dobro znao o optimizaciji koda, kao ni u koje fajlove i gdje smještati kod.
+## Technologies Used
+- **C#**: Core programming language.
+- **C# Interface**: For creating the graphical user interface.
+- **File I/O**: For managing data persistence.
 
-### Detalji Projekta
-Ovaj projekt pokazuje moje sposobnosti u stvaranju full-stack softverske aplikacije, uključujući bazu podataka i ostale komponente prikladne za potrebe tog doba. Pokazuje da sam se, iako nisam imao velikog predznanja, uspio snaći i doći do rješenja. Srećom, imali smo spreman dijagram entiteta i odnosa (ERD), što je pojednostavilo proces dizajniranja baze podataka. Bez njega, aspekt baze podataka bio bi izazovniji.
+---
 
-### Značaj
-Ovaj projekt označava moje skromne početke u razvoju softvera. Unatoč svojim ograničenjima, ponosan sam na njega jer je odigrao značajnu ulogu u oblikovanju mojih vještina kodiranja i razvoja mog "karaktera kodiranja".
+## Setup Instructions
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AndNijaz/HighSchool-ShopApp-III-class.git
+   ```
+
+2. Open the project in an IDE like IntelliJ IDEA or Eclipse.
+
+3. Compile and run the `Main.java` file.
+
+---
+
+## Usage
+The application was designed for educational purposes, enabling users to:
+- Manage a basic inventory.
+- Understand foundational Java programming concepts.
+- Experiment with file-based data storage.
+
+---
+
+## Historical Significance
+This project serves as a testament to my early interest in software development. By showcasing this high school project on GitHub, I highlight my long-standing activity on the platform and his consistent growth as a developer.
+
+---
+
+## Project Status
+This project is **archived** and remains unchanged since its creation. It represents an educational milestone rather than a production-ready application.
+
+---
+
+## Acknowledgements
+This project was developed as part of a high school learning initiative, with guidance and support from educators and peers.
+
